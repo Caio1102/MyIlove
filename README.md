@@ -1,3 +1,7 @@
+Caio Vinicius Mussi Trindade - 10735885
+Gustavo Micher  - 10737606
+Vitor Carneiro Araújo - 10748048
+
 Consideramos este um projeto extensionista, pois terá impacto direto na sociedade, especialmente em casais. A plataforma possibilita armazenar recordações de momentos vividos, além de oferecer espaços para compartilhar ideias e criar planos futuros. Dessa forma, promove não apenas a preservação de memórias afetivas, mas também o fortalecimento dos vínculos interpessoais. Além disso, o projeto possui relevância acadêmica e social, ao aplicar conhecimentos da área de tecnologia em uma solução prática voltada ao bem-estar das pessoas e às relações humanas.
 
 <img width="1882" height="907" alt="Captura de tela 2025-08-28 201126" src="https://github.com/user-attachments/assets/5cc04d30-923d-49a1-b343-203811b6ad24" />
